@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Programmieren\\C#\\Projects\\Stefan\\Bossfight\\Bossfight\\Bossfight\\Bossfight.csproj": {}
+  },
+  "projects": {
+    "E:\\Programmieren\\C#\\Projects\\Stefan\\Bossfight\\Bossfight\\Bossfight\\Bossfight.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programmieren\\C#\\Projects\\Stefan\\Bossfight\\Bossfight\\Bossfight\\Bossfight.csproj",
+        "projectName": "Bossfight",
+        "projectPath": "E:\\Programmieren\\C#\\Projects\\Stefan\\Bossfight\\Bossfight\\Bossfight\\Bossfight.csproj",
+        "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
+        "outputPath": "E:\\Programmieren\\C#\\Projects\\Stefan\\Bossfight\\Bossfight\\Bossfight\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

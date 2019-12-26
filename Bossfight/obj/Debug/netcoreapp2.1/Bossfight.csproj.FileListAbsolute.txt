@@ -1,0 +1,11 @@
+E:\Programmieren\C#\Projects\Stefan\Bossfight\Bossfight\Bossfight\obj\Debug\netcoreapp2.1\Bossfight.csprojAssemblyReference.cache
+E:\Programmieren\C#\Projects\Stefan\Bossfight\Bossfight\Bossfight\obj\Debug\netcoreapp2.1\Bossfight.csproj.CoreCompileInputs.cache
+E:\Programmieren\C#\Projects\Stefan\Bossfight\Bossfight\Bossfight\obj\Debug\netcoreapp2.1\Bossfight.AssemblyInfoInputs.cache
+E:\Programmieren\C#\Projects\Stefan\Bossfight\Bossfight\Bossfight\obj\Debug\netcoreapp2.1\Bossfight.AssemblyInfo.cs
+E:\Programmieren\C#\Projects\Stefan\Bossfight\Bossfight\Bossfight\bin\Debug\netcoreapp2.1\Bossfight.deps.json
+E:\Programmieren\C#\Projects\Stefan\Bossfight\Bossfight\Bossfight\bin\Debug\netcoreapp2.1\Bossfight.runtimeconfig.json
+E:\Programmieren\C#\Projects\Stefan\Bossfight\Bossfight\Bossfight\bin\Debug\netcoreapp2.1\Bossfight.runtimeconfig.dev.json
+E:\Programmieren\C#\Projects\Stefan\Bossfight\Bossfight\Bossfight\bin\Debug\netcoreapp2.1\Bossfight.dll
+E:\Programmieren\C#\Projects\Stefan\Bossfight\Bossfight\Bossfight\bin\Debug\netcoreapp2.1\Bossfight.pdb
+E:\Programmieren\C#\Projects\Stefan\Bossfight\Bossfight\Bossfight\obj\Debug\netcoreapp2.1\Bossfight.dll
+E:\Programmieren\C#\Projects\Stefan\Bossfight\Bossfight\Bossfight\obj\Debug\netcoreapp2.1\Bossfight.pdb
